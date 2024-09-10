@@ -7,8 +7,6 @@ sites:
     url: https://christianfurr.dev/
   - name: test
     url: https://google.com
-  - name: test2
-    url: https://www.christianfurr.dev
     port: 80
     check: "tcp-ping"
     ipv6: false
